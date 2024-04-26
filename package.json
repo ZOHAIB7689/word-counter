@@ -1,0 +1,20 @@
+{
+  "name": "lexi-score",
+  "version": "1.0.0",
+  "description": "its just simple word counter powered by typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZOHAIB",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19",
+    "lexi-score": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
